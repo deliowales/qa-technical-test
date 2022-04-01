@@ -4,13 +4,14 @@
 
 With this test, we want you to imagine yourself as a member of the Delio QA team.
 
-For the purpose of this test, we will be running tests on [Swag Labs](https://www.saucedemo.com/). 2 new features have been released to the platform:
+For the purpose of this test, we will be running tests on [Swag Labs](https://www.saucedemo.com/).
+
+Recently, 2 brand new features have been released to the platform:
 
 1. The ability to add items to the cart
 2. The ability to checkout
 
 We need to ensure these 2 workflows are functioning for the **standard_user** account.
-
 
 ## Requirements 🗃️
 
